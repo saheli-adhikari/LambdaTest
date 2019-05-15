@@ -31,8 +31,8 @@ public class PageObjectModel {
 		capabilities.setCapability("version", version);
 		capabilities.setCapability("platform", platform); // If this cap isn't specified, it will just get the any
 															// available one
-		capabilities.setCapability("build", "LambdaTestSampleApp8");
-		capabilities.setCapability("name", "LambdaTestJavaSample8");
+		capabilities.setCapability("build", "LambdaTestSampleApp10");
+		capabilities.setCapability("name", "LambdaTestJavaSample10");
 		capabilities.setCapability("network", true); // To enable network logs
 		capabilities.setCapability("visual", true); // To enable step by step screenshot
 		capabilities.setCapability("video", true); // To enable video recording
